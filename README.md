@@ -31,17 +31,6 @@ It provides clear business insights using KPIs, charts, and filters to help stak
 
 ---
 
-## 📸 Dashboard Screenshot
-
-> Below is a snapshot of the **Mobile Sales Power BI Dashboard** showing KPIs, sales trends, and interactive filters.
-
-![Mobile Sales Dashboard Screenshot](./Mobile Sales Dashboard.jpg)
-
-> 📌 *Tip:* Upload your dashboard image to the repository and rename it as `dashboard_screenshot.png`  
-(or update the filename here if different)
-
----
-
 ## 📈 Dashboard Features
 - 📅 **Month-wise slicer** for time-based analysis  
 - 📱 **Mobile Model, Brand & Payment Method filters**  
@@ -55,4 +44,4 @@ It provides clear business insights using KPIs, charts, and filters to help stak
 
 ---
 
-## 🗂️ Project Structure
+
